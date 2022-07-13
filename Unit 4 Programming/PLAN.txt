@@ -1,0 +1,60 @@
+----------------- Time managment and task list ---------------
+
+*Create a plan for the whole project.
+
+* Produce a design report
+	* Systems development cycle 
+	* Problem definition
+		* Intended users
+		* Benifits of the solution
+		* Problem description
+		* list of objectives 
+	* Programming language justification 
+	* Create Test Plan
+	* Create User Interface design
+	* Flowcharts
+		* main body of code involved 
+		* code used for vlaidation checks
+	* Justification for the designs(why they will be effective)
+--> Expected to spend 4.5 hours
+
+
+* Third party review of designs
+	* Act on feedback given
+--> Expected to spend 1/0.5 hours
+
+
+* Develop Final solution
+	* Comment code for ease of use
+	* Make screenshots of errors that occur
+	* Add error to test plan including how they occured
+--> Expected to spend 14 hours
+
+
+* Annotate final user interface
+* Finalise Test plan(including test results + data used)
+	* Show Evidence of fixing errors
+--> Expected to spend 2 hours
+
+
+* Third party review of my program
+	* store comments on program 
+	* act on comments if nessecary
+--> Expected to spend 1 hours
+
+
+* Evaluate my final solution
+	* Evaluate success of solution
+	* How well design, review and testing helped produce a solution
+--> Expected to spend 4 hours
+	
+
+* Show how i managed time
+* Show how i reviewed and responed to feedback
+* Show how i justified recomendations and decisions
+
+Total expected time: 26.5 hours
+Over 6 week period.
+Start date: 17/01/2020
+
+MUST COMPLETE BY 28/02/2020
