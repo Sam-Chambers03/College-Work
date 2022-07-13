@@ -1,0 +1,16 @@
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\bin\Debug\SchoolTrackerApplicationUnit9.exe.config
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\bin\Debug\SchoolTrackerApplicationUnit9.exe
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\bin\Debug\SchoolTrackerApplicationUnit9.pdb
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\bin\Debug\SchoolTrackerApplicationUnit9.xml
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.vbprojAssemblyReference.cache
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.Form2.resources
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.Resources.resources
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.vbproj.GenerateResource.cache
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.exe
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.xml
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.pdb
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\bin\Debug\student database.accdb
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.Form1.resources
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.Form3.resources
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.Form4.resources
+C:\Users\chamb\Desktop\Unit 9 Assigment\Program VB\SchoolTrackerApplicationUnit9\obj\Debug\SchoolTrackerApplicationUnit9.vbproj.CoreCompileInputs.cache
